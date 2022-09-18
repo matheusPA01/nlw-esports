@@ -1,0 +1,5 @@
+como elevar a aplicação:
+- Responsivo - feito
+- Carrousel com mais games - feito
+- Dentro da publicação de anúncio - feito
+- Validação utilizando React Hook Form + zod soonTM
